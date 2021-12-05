@@ -1,0 +1,54 @@
+body{
+    margin: 10px;
+}
+
+.log{
+    display:flex;
+   
+ 
+}
+.img{
+    width:130px;
+    height:80px;
+}
+
+.lis{
+    float: left;
+    margin-right: 20px;
+    list-style: none;
+    float: left;
+    margin-right:20px;
+
+}
+
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    
+    border-bottom: 2px solid;
+}
+
+
+.bor{
+    border: 10px solid black;
+    margin: auto;
+    border-radius: 10;
+}
+
+.p1{
+color:gray;
+}
+.p2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.p3{
+    color: green;
+}
+.bor{
+    border: 3px black groove;
+}
